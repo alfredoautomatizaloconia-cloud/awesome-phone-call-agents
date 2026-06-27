@@ -244,6 +244,10 @@ Keep descriptions short, specific, factual, and directly tied to packaging, sche
 
 This project is an awesome list for AI-agent phone-call workflows. Add resources only when they directly help agents package, schedule, execute, or safely operate phone-call tasks.
 
+### Operating platforms
+
+- [Hermes](https://www.buildwithhermes.com) - White-label operating platform for running AI phone-call agents across multiple clients, with campaign scheduling, outbound and inbound execution, native CRM, and built-in TCPA and DNC compliance with consent logging for safely operating calls at scale.
+
 ### Skills
 
 - [`call-reminder`](skills/call-reminder/) - Scheduler wrapper skill for recurring CALL-E phone-call reminders.
